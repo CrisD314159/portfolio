@@ -1,0 +1,72 @@
+.skillsMain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   margin: 20px 0;
+}
+
+.skillsTittle{
+  font-size: 1.7rem;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.sliderMainContainer{
+  width: 100%;
+  height: 200px;
+}
+
+.slider{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+  margin-bottom: 50px;
+  scrollbar-width: 0;
+  position: relative;
+
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+}
+
+.item{
+  flex: 1 0 250px;
+  border-radius: 8px;
+  height: 80px;
+  margin: 0 20px;
+  transition: all 250ms ease-in-out;
+  position: relative;
+  overflow: hidden;
+
+}
+
+.item:hover{
+  box-shadow: 1px 1px 1rem #626262;
+  transform: translate(1px, 1px);
+}
+
+.itemImageContainer{
+  position: absolute;
+  right: -10px;
+  bottom: 15px;
+  width: 100px;
+  height: 100px;
+
+}
+.itemImage{
+  width: 100%;
+  height: 100%;
+
+}
+
+.tittleItem{
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-left: 20px;
+
+}

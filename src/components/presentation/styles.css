@@ -1,0 +1,118 @@
+.background{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  width: 100%;
+  padding: 0 2rem;
+
+  @media screen and (max-width: 900px){
+    flex-direction: column;
+    
+  }
+
+}
+
+.welcomeContainer{
+  width: 55%;
+  margin-left: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+
+  @media screen and (max-width: 900px){
+    margin: 0;
+    
+  }
+
+}
+
+.title{
+  font-size: 3.7rem;
+  font-weight: 300;
+
+  @media screen and (max-width: 900px){
+    font-size: 2.5rem;
+    
+  }
+
+}
+
+.background {
+  background: linear-gradient(-45deg, #00025d, #000c5d, #070057, #0b0030);
+  background-size: 400% 400%;
+  animation: gradient 7s ease infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.profilePicture{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('/profile.jpg');
+  margin: 70px;
+
+  @media screen and (max-width: 900px){
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    
+  }
+}
+
+
+.presentationContainer{
+  display: flex;
+  flex-direction: column;
+}
+
+.aboutTittle{
+  font-size: 2rem;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.aboutText{
+  font-size: 1rem;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.aboutContainer{
+  padding: 50px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 50px;
+
+  @media screen and (max-width: 550px){
+   padding: 50px 0;
+    
+  }
+}
+
+.intImage{
+  width: 40px;
+  height: 40px;
+  margin: 0 5px;
+
+  @media screen and (max-width: 900px){
+    width: 30px;
+    height: 30px;
+    
+  }
+}

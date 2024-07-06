@@ -1,0 +1,45 @@
+.mainHeader{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  
+
+
+}
+.headerImageContainer{
+  width: 65px;
+}
+.headerImageContainer img{
+  width: 100%;
+}
+
+.navList{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.nav{
+  width: 20%;
+  @media screen and (max-width: 1040px) {
+    width: 35%;
+    
+  }
+
+  @media screen and (max-width: 440px) {
+    width: 60%;
+    
+  }
+}
+
+.navListItem{
+  list-style: none;
+}
+.navListItem a{
+  text-decoration: none;
+  color: #ececec;
+  font-size: 1rem;
+  font-weight: 300;
+}

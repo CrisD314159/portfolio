@@ -1,0 +1,160 @@
+{
+  "projects":[
+    {
+      "name":"Ganímedes",
+      "description":"Ganímedes te permite hacer conversiones entre diferetes bases numéricas",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583043/njloi6gnzsewdo2gikrd.png",
+      "github":"",
+      "url":"https://ganimedes.vercel.app/",
+      "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"]
+    },
+    {
+      "name":"StarNeutron",
+      "description":"Descubre articulos de temas interesantes y aprende de una forma sencilla con una aplicación minimalista fácil de usar",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583042/jh49oaoz2m20frhlebyf.png",
+      "github":"",
+      "url":"https://starneutron.vercel.app/",
+      "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"]
+    },
+    {
+      "name":"StarSystem",
+      "description":"Observa en detalle el sistema solar y la imagen astronimica del día brindada por una API de la NASA",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583042/xicurp9qq98r8dcvwoua.png",
+      "github":"",
+      "url":"https://star-system.vercel.app/",
+      "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"]
+    },
+    {
+      "name":"Mercurial",
+      "description":"Administra tus tareas y asignaturas universitarias de una forma sencilla",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583179/qx7wymh7ielvndcnvda1.png",
+      "github":"",
+      "url":"https://ganymedes.herokuapp.com/",
+      "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"]
+    },
+    {
+      "name":"StarNeutron Admin",
+      "description":"Esta aplicación permite administrar los articulos de StarNeutron",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719584911/pofhrutuebege1dbs9bj.png",
+      "github":"",
+      "url":"https://starneutron-admin.vercel.app",
+      "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg", "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png"]
+    },
+    {
+      "name":"StarNeutron (Backend)",
+      "description":"Backend de StarNeutron hecho en Node.js y Express",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583042/jh49oaoz2m20frhlebyf.png",
+      "github":"",
+      "url":"https://starneutron.vercel.app/",
+      "technologies":["https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"]
+    },
+    {
+      "name":"Mercurial (Backend)",
+      "description":"Backend de Mercurial hecho en Node.js y Express, permite gestionar tareas y asignaturas universitarias",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583179/qx7wymh7ielvndcnvda1.png",
+      "github":"",
+      "url":"https://ganymedes.herokuapp.com/",
+      "technologies":["https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"]
+    },
+    {
+      "name":"Unilocal",
+      "description":"Backend realizado en Java usando Spring Boot para una aplicación marketplace de negocios locales",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583042/miwutcqvif4ethxwokih.png",
+      "github":"",
+      "url":"https://unilocal-ui.web.app/login",
+      "technologies":["https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"]
+    }
+  
+  ],
+  "education":[
+    {
+      "name":"Especializacion En Desarrollo de Frontend",
+      "institution":"Alura Latam - Oracle One",
+      "date":"2022",
+      "url":"https://app.aluracursos.com/degree/certificate/d225fa68-125f-4630-8356-5469d6fa0871"
+    },
+    {
+      "name":"Ingeniería de Sistemas y Computación",
+      "institution":"Universidad Del Quindío",
+      "date":"2021 - Presente"
+    },
+    {
+      "name":"HTML5",
+      "institution":"Udemy",
+      "date":"2022",
+      "url":"https://www.udemy.com/certificate/UC-7cfdb4e0-8ee1-4842-97c2-d6c127c35ed9/"
+    },
+    {
+      "name":"CSS3",
+      "institution":"Udemy",
+      "date":"2023",
+      "url":"https://www.udemy.com/certificate/UC-5b2bb34e-9f52-46b5-a697-28ddedb253e0/"
+    },
+    {
+      "name":"JavaScript",
+      "institution":"Udemy",
+      "date":"2023 - 2024",
+      "url":"https://www.udemy.com/certificate/UC-36806326-1343-4ac4-a629-b838aaed7f7a/"
+    }
+    
+
+  ],
+  "skills":[
+    {
+      "name":"HTML5",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
+      "color":"#E34F26"
+    },
+    {
+      "name":"CSS3",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
+      "color":"#1572B6"
+    },
+    {
+      "name":"JavaScript",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
+      "color":"#F7DF1E"
+    },
+    {
+      "name":"React",
+      "image":"https://static-00.iconduck.com/assets.00/react-icon-456x512-rbcus4a2.png",
+      "color":"#61DAFB"
+    },
+    {
+      "name":"Node.js",
+      "image":"https://cdn.iconscout.com/icon/free/png-256/free-node-js-3628954-3030179.png?f=webp&w=256",
+      "color":"#339933"
+    },
+    {
+      "name":"PostgreSQL",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+      "color":"#336791"
+    },
+    {
+      "name":"Java",
+      "image":"https://cdn-icons-png.flaticon.com/512/226/226777.png",
+      "color":"#007396"
+    },
+    {
+      "name":"Spring Boot",
+      "image":"https://static-00.iconduck.com/assets.00/spring-boot-icon-2048x2046-hlpnsm8r.png",
+      "color":"#6DB33F"
+    },
+    {
+      "name":"TypeScript",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
+      "color":"#3178C6"
+    },
+    {
+      "name":"Next.js",
+      "image":"https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png",
+      "color":"#161616"
+    },
+    {
+      "name":"Python",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+      "color":"#3776AB"
+    }
+    
+  ]
+}
