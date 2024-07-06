@@ -136,15 +136,19 @@
 }
 
 .urlButton{
-  width: 80px;
+  width: 90px;
   height: 30px;
   border-radius: 7px;
   background: #17046f;
   border: 1px solid #787878;
+  padding: 5px 10px;
   display: flex;
   justify-content: center;
   align-items: center;
   transition: all 250ms ease-in-out;
+  color: #c1c1c1;
+  text-decoration: none;
+  font-size: 15px;
 
   &:hover{
     background-color: #070231;

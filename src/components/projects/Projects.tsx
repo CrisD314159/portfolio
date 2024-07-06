@@ -32,8 +32,8 @@ export default function Projects() {
                                             </div>
                                         </button>
                                     </a>
-                                    <a href={project.url}>
-                                        <button className='urlButton'>Ir al sitio</button>
+                                    <a href={project.url} className='urlButton'>
+                                        Ir al sitio
                                     </a>
                                     
                                 </div>

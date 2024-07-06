@@ -47,7 +47,6 @@
 
 .item:hover{
   box-shadow: 1px 1px 1rem #626262;
-  transform: translate(1px, 1px);
 }
 
 .itemImageContainer{

@@ -11,7 +11,7 @@ export default function Presentation() {
           <h1 className="title">Bienvenid@, es un gusto tenerte. <NavLink to='https://www.linkedin.com/in/cristian-david-vargas-loaiza-982314271/'>
           <img src={linkedin} alt="" className="intImage"/>
           </NavLink>
-          <NavLink to='https://www.linkedin.com/in/cristian-david-vargas-loaiza-982314271/'>
+          <NavLink to='https://github.com/CrisD314159'>
           <img src='https://pngimg.com/d/github_PNG63.png' alt="" className="intImage"/>
           </NavLink>
           
