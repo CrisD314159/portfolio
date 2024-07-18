@@ -1,6 +1,6 @@
 :root {
-  font-family: 'Montserrat', system-ui, Avenir, Helvetica, Arial, sans-serif;
-  color-scheme: light dark;
+  font-family: 'Montserrat', sans-serif;
+  color-scheme: dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #0b0b0b;
 
@@ -20,7 +20,8 @@ body {
 }
 
 
-
+/* Por si se usa modo claro */
+/*
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
@@ -33,3 +34,4 @@ body {
     background-color: #f9f9f9;
   }
 }
+*/
