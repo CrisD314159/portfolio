@@ -4,7 +4,7 @@
       "name":"Ganímedes",
       "description":"Ganímedes te permite hacer conversiones entre diferetes bases numéricas",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583043/njloi6gnzsewdo2gikrd.png",
-      "github":"",
+      "github":"https://github.com/CrisD314159/Ganimedes",
       "url":"https://ganimedes.vercel.app/",
       "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"]
     },
@@ -12,7 +12,7 @@
       "name":"StarNeutron",
       "description":"Descubre articulos de temas interesantes y aprende de una forma sencilla con una aplicación minimalista fácil de usar",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583042/jh49oaoz2m20frhlebyf.png",
-      "github":"",
+      "github":"https://github.com/CrisD314159/StarNeutron",
       "url":"https://starneutron.vercel.app/",
       "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"]
     },
@@ -20,7 +20,7 @@
       "name":"StarSystem",
       "description":"Observa en detalle el sistema solar y la imagen astronimica del día brindada por una API de la NASA",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583042/xicurp9qq98r8dcvwoua.png",
-      "github":"",
+      "github":"https://github.com/CrisD314159/StarSystem",
       "url":"https://star-system.vercel.app/",
       "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"]
     },
@@ -28,7 +28,7 @@
       "name":"Mercurial",
       "description":"Administra tus tareas y asignaturas universitarias de una forma sencilla",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583179/qx7wymh7ielvndcnvda1.png",
-      "github":"",
+      "github":"https://github.com/CrisD314159/mercurial_ui",
       "url":"https://mercurial.vercel.app/",
       "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"]
     },
@@ -36,7 +36,7 @@
       "name":"StarNeutron Admin",
       "description":"Esta aplicación permite administrar los articulos de StarNeutron",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719584911/pofhrutuebege1dbs9bj.png",
-      "github":"",
+      "github":"https://github.com/CrisD314159/starneutron-admin",
       "url":"https://starneutron-admin.vercel.app",
       "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg", "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png"]
     },
@@ -44,7 +44,7 @@
       "name":"StarNeutron (Backend)",
       "description":"Backend de StarNeutron hecho en Node.js y Express",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583042/jh49oaoz2m20frhlebyf.png",
-      "github":"",
+      "github":"https://github.com/CrisD314159/star-api",
       "url":"https://starneutron.vercel.app/",
       "technologies":["https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"]
     },
@@ -52,7 +52,7 @@
       "name":"Mercurial (Backend)",
       "description":"Backend de Mercurial hecho en Node.js y Express, permite gestionar tareas y asignaturas universitarias",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583179/qx7wymh7ielvndcnvda1.png",
-      "github":"",
+      "github":"https://github.com/CrisD314159/mercurial_backend",
       "url":"https://mercurial.vercel.app/",
       "technologies":["https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"]
     },
@@ -60,7 +60,7 @@
       "name":"Unilocal",
       "description":"Backend realizado en Java usando Spring Boot para una aplicación marketplace de negocios locales",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583042/miwutcqvif4ethxwokih.png",
-      "github":"",
+      "github":"https://github.com/CrisD314159/Unilocal",
       "url":"https://unilocal-ui.web.app/login",
       "technologies":["https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"]
     }
