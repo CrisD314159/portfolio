@@ -10,9 +10,6 @@ export default function Header() {
       </div>
       <nav className="nav">
         <ul className="navList">
-          <li className="navListItem">
-            <NavLink to={'/projects'}>Projects</NavLink>
-          </li>
           <li className='navListItem'>
             <NavLink to={'https://www.linkedin.com/in/cristian-david-vargas-loaiza-982314271/'}>LinkedIn</NavLink>
           </li>
