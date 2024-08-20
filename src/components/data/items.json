@@ -29,7 +29,7 @@
       "description":"Administra tus tareas y asignaturas universitarias de una forma sencilla",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583179/qx7wymh7ielvndcnvda1.png",
       "github":"https://github.com/CrisD314159/mercurial_ui",
-      "url":"https://mercurial.vercel.app/",
+      "url":"https://mercurial-app.vercel.app/",
       "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"]
     },
     {
@@ -53,7 +53,7 @@
       "description":"Backend de Mercurial hecho en Node.js y Express, permite gestionar tareas y asignaturas universitarias",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583179/qx7wymh7ielvndcnvda1.png",
       "github":"https://github.com/CrisD314159/mercurial_backend",
-      "url":"https://mercurial.vercel.app/",
+      "url":"https://mercurial-app.vercel.app/",
       "technologies":["https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"]
     },
     {
