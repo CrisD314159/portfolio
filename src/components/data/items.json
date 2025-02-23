@@ -1,6 +1,14 @@
 {
   "projects":[
     {
+      "name": "Púrpura Music",
+      "description": "Aplicación realizada en ASP.NET Core para el backend y Next.js para el frontent. Púrpura music te permite escuchar música estes donde estes",
+      "image": "https://res.cloudinary.com/dw43hgf5p/image/upload/v1734400648/p1j2larqesr3qi4yn3o5.png",
+      "github": "https://github.com/CrisD314159/purpuraBackendMain",
+      "url": "https://purpura-music.vercel.app/",
+      "technologies": ["https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg", "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"]
+    },
+    {
       "name":"Ganímedes",
       "description":"Ganímedes te permite hacer conversiones entre diferetes bases numéricas",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583043/njloi6gnzsewdo2gikrd.png",
@@ -64,6 +72,7 @@
       "url":"https://unilocal-ui.web.app/login",
       "technologies":["https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"]
     }
+    
   
   ],
   "education":[
@@ -95,6 +104,12 @@
       "institution":"Udemy",
       "date":"2023 - 2024",
       "url":"https://www.udemy.com/certificate/UC-36806326-1343-4ac4-a629-b838aaed7f7a/"
+    },
+    {
+      "name":"C#, ASP.NET Core",
+      "institution":"Free Code Camp",
+      "date":"2024",
+      "url":"https://www.freecodecamp.org/certification/CristianDavidVargasLoaiza/foundational-c-sharp-with-microsoft"
     }
     
 
@@ -154,6 +169,11 @@
       "name":"Python",
       "image":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
       "color":"#3776AB"
+    },
+    {
+      "name":"ASP.NET Core",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png",
+      "color":"#512BD4"
     }
     
   ]
