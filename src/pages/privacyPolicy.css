@@ -1,0 +1,46 @@
+/* Modo oscuro */
+
+.privacy-dark-container {
+  background-color: #0f0f0f;
+  color: #e0e0e0;
+  max-width: 768px;
+  margin: 4rem auto;
+  padding: 2rem;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.8;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.05);
+}
+
+.privacy-dark-title {
+  font-size: 2rem;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  color: #dce8ff;
+}
+
+.privacy-dark-content h2 {
+  font-size: 1.3rem;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.privacy-dark-content p {
+  margin-bottom: 1rem;
+}
+
+.privacy-dark-content a {
+  color: #76b3f0;
+  text-decoration: underline;
+  word-break: break-word;
+}
+
+.privacy-dark-footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #888;
+}
