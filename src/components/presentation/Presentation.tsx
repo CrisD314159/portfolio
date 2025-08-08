@@ -8,7 +8,7 @@ export default function Presentation() {
       <div className="background">
         <div className="profilePicture"/>
         <div className="welcomeContainer">
-          <h1 className="title">Bienvenid@, es un gusto tenerte. <NavLink to='https://www.linkedin.com/in/cristian-david-vargas-loaiza-982314271/'>
+          <h1 className="title">Bienvenid@, es un gusto tenerte. <NavLink to='https://www.linkedin.com/in/crisdev'>
           <img src={linkedin} alt="" className="intImage"/>
           </NavLink>
           <NavLink to='https://github.com/CrisD314159'>

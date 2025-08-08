@@ -9,6 +9,30 @@
       "technologies": ["https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg", "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"]
     },
     {
+      "name":"Mercurial",
+      "description":"Aplicación realizada en Next.js y ASP.NET para administrar tus tareas y asignaturas universitarias de una forma sencilla y responsiva",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1744040055/mercurialPhotos/cnpqltg5vjmhbnufiudm.png",
+      "github":"https://github.com/CrisD314159/Mercurial_Dotnet",
+      "url":"https://mercurial-app.vercel.app/",
+      "technologies":["https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg", "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"]
+    },
+    {
+      "name":"Comet",
+      "description":"Conecta con personas de una forma rápida y minimalista",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1750709766/AF3173AB-74B3-42F6-95B3-E77602CBA371_ob2zlc.png",
+      "github":"https://github.com/CrisD314159/comet_backend",
+      "url":"https://comet-woad.vercel.app/",
+      "technologies":["https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg", "https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"]
+    },
+        {
+      "name":"Nebra",
+      "description":"Aplicación realizada en Spring Boot y Next.js crear y administrar negocios locales negocios locales",
+      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1753392503/nebraImages/krzunab8xoap7ox1baso.png",
+      "github":"https://github.com/CrisD314159/Nebra",
+      "url":"https://nebra.vercel.app/dashboard",
+      "technologies":["https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png", "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"]
+    },
+    {
       "name":"Ganímedes",
       "description":"Ganímedes te permite hacer conversiones entre diferetes bases numéricas",
       "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583043/njloi6gnzsewdo2gikrd.png",
@@ -31,46 +55,6 @@
       "github":"https://github.com/CrisD314159/StarSystem",
       "url":"https://star-system.vercel.app/",
       "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"]
-    },
-    {
-      "name":"Mercurial",
-      "description":"Administra tus tareas y asignaturas universitarias de una forma sencilla",
-      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583179/qx7wymh7ielvndcnvda1.png",
-      "github":"https://github.com/CrisD314159/mercurial_ui",
-      "url":"https://mercurial-app.vercel.app/",
-      "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"]
-    },
-    {
-      "name":"StarNeutron Admin",
-      "description":"Esta aplicación permite administrar los articulos de StarNeutron",
-      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719584911/pofhrutuebege1dbs9bj.png",
-      "github":"https://github.com/CrisD314159/starneutron-admin",
-      "url":"https://starneutron-admin.vercel.app",
-      "technologies":["https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg", "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png"]
-    },
-    {
-      "name":"StarNeutron (Backend)",
-      "description":"Backend de StarNeutron hecho en Node.js y Express",
-      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583042/jh49oaoz2m20frhlebyf.png",
-      "github":"https://github.com/CrisD314159/star-api",
-      "url":"https://starneutron.vercel.app/",
-      "technologies":["https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"]
-    },
-    {
-      "name":"Mercurial (Backend)",
-      "description":"Backend de Mercurial hecho en Node.js y Express, permite gestionar tareas y asignaturas universitarias",
-      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583179/qx7wymh7ielvndcnvda1.png",
-      "github":"https://github.com/CrisD314159/mercurial_backend",
-      "url":"https://mercurial-app.vercel.app/",
-      "technologies":["https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"]
-    },
-    {
-      "name":"Unilocal",
-      "description":"Backend realizado en Java usando Spring Boot para una aplicación marketplace de negocios locales",
-      "image":"https://res.cloudinary.com/dw43hgf5p/image/upload/v1719583042/miwutcqvif4ethxwokih.png",
-      "github":"https://github.com/CrisD314159/Unilocal",
-      "url":"https://unilocal-ui.web.app/login",
-      "technologies":["https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg", "https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"]
     }
     
   
@@ -115,6 +99,21 @@
 
   ],
   "skills":[
+     {
+      "name":"ASP.NET Core",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png",
+      "color":"#512BD4"
+    },
+    {
+      "name":"Next.js",
+      "image":"https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png",
+      "color":"#161616"
+    },
+    {
+      "name":"Spring Boot",
+      "image":"https://img.icons8.com/color/512/spring-logo.png",
+      "color":"#6DB33F"
+    },
     {
       "name":"HTML5",
       "image":"https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
@@ -132,7 +131,7 @@
     },
     {
       "name":"React",
-      "image":"https://static-00.iconduck.com/assets.00/react-icon-456x512-rbcus4a2.png",
+      "image":"https://www.svgrepo.com/show/327388/logo-react.svg",
       "color":"#61DAFB"
     },
     {
@@ -150,30 +149,17 @@
       "image":"https://cdn-icons-png.flaticon.com/512/226/226777.png",
       "color":"#007396"
     },
-    {
-      "name":"Spring Boot",
-      "image":"https://static-00.iconduck.com/assets.00/spring-boot-icon-2048x2046-hlpnsm8r.png",
-      "color":"#6DB33F"
-    },
+
     {
       "name":"TypeScript",
       "image":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
       "color":"#3178C6"
     },
-    {
-      "name":"Next.js",
-      "image":"https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png",
-      "color":"#161616"
-    },
+
     {
       "name":"Python",
       "image":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
       "color":"#3776AB"
-    },
-    {
-      "name":"ASP.NET Core",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png",
-      "color":"#512BD4"
     }
     
   ]
